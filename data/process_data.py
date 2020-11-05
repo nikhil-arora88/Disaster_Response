@@ -26,7 +26,9 @@ def load_data(messages_filepath, categories_filepath):
 
 def clean_data(df):
     '''
-    Function for the clearning the dataframe passed as the argument
+    Function for the cleaning the dataframe passed as the argument
+
+    Function returns the cleaned dataframe
     '''
     
     # create a dataframe of the 36 individual category columns
