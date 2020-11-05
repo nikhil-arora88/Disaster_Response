@@ -8,6 +8,9 @@ The project aims to build a model that can predict the need for assistance by fl
 The model uses NLP techniques and supervised machine learning. Each message is first cleaned and tokens created are created from the text message. From the clean tokens, features are created using the TF-IDF technique for feeding into a Random Forest model (trained using grid search)
 
 
+###
+Github repository https://github.com/nikhil-arora88/Disaster_Response
+
 
 ### Instructions to run:
 1. Run the following commands in the project's root directory to set up your database and model.
